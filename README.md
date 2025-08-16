@@ -1,14 +1,14 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F5792A&height=200&section=header&text=Cesar%20Augusto&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F5792A&height=200&section=header&text=Cesar%20Augusto%20Floriani&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h2 align="center">💻 Desenvolvedor | 🎨 Artista 3D | 🔧 Futuro Tech Artist</h2>
+<h2 align="center">💻 Developer | 🎨 3D artist | 🔧 Future Tech Artist</h2>
 
 ---
 
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Ciência da Computação**  
 - 💻 Experiência com **Java, C#, Python e SQL**  
-- 🎨 Atuo como **Artista 3D Generalista** (Blender, Substance Painter, Shaders)  
+- 🎨 Atuo como **Programador e Artista 3D Generalista** (Blender, Substance Painter, Shaders)  
 - 🚀 Objetivo: evoluir como **Technical Artist**, unindo programação e arte  
 
 ---
