@@ -1,9 +1,11 @@
 # Cesar Augusto
 
-Sou estudante de **Ciência da Computação** e **Artista 3D Generalista**, com experiência em modelagem para **arquitetura, jogos e publicidade**.  
-Atualmente trabalho como artista júnior, criando modelos **hard surface e orgânicos**, tanto **high poly** quanto **low poly**.  
+Sou **desenvolvedor e estudante de Ciência da Computação**, com foco em **programação orientada a objetos, algoritmos e desenvolvimento de software**.  
+Tenho experiência em linguagens como **Java, C#, Python e SQL**, aplicando conceitos de lógica, estrutura de dados e boas práticas de código.  
 
-Tenho interesse em evoluir minha carreira como **Technical Artist**, unindo programação e arte para desenvolver soluções criativas e eficientes.
+Além da área de programação, também atuo como **Artista 3D Generalista**, com experiência em modelagem para **arquitetura, jogos e publicidade**, utilizando ferramentas como **Blender e Substance Painter**.  
+
+Meu objetivo é evoluir como **Technical Artist**, unindo programação e arte para criar soluções técnicas e criativas que otimizem fluxos de trabalho e ampliem possibilidades visuais.
 
 ---
 
