@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F5792A&height=200&section=header&text=Cesar%20Augusto&fontSize=40&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F5792A&height=200&section=header&text=Cesar%20Augusto%20Floriani&fontSize=40&fontColor=ffffff&fontAlignY=35)
 
 # ​ Sobre mim
 Atuo como **Programador** e **Artista 3D Generalista** (Blender, Substance Painter, Shaders).  
@@ -25,12 +25,14 @@ Busco evoluir como **Technical Artist**, unindo programação e arte para soluç
 
 ## ​ Projetos em Breve
 ✨ Repositórios e estudos chegando em breve...
+- reconhecimento facial com java
+- visualização e Customização de Objetos 3D
 
 ---
 
 ## ​ Atualmente Estudando
 - Java avançado  
-- C# moderno  
+- Python
 - Shaders & Geometry Nodes
 
 ---
@@ -41,7 +43,6 @@ Busco evoluir como **Technical Artist**, unindo programação e arte para soluç
   <img src="https://github-readme-stats.vercel.app/api?username=cafcaesar&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://streak-stats.demolab.com?user=cafcaesar&theme=tokyonight&hide_border=true" height="160"/>
 </p>  
-![Trophies](https://github-profile-trophy.vercel.app/?username=cafcaesar&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
