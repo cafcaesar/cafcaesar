@@ -13,10 +13,7 @@ Busco evoluir como **Technical Artist**, unindo programação e arte para soluç
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 **3D / Arte Digital**  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6C37?style=for-the-badge&logo=adobe&logoColor=white)  
-![Geometry Nodes](https://img.shields.io/badge/Geometry%20Nodes-0096FF?style=for-the-badge&logo=blender&logoColor=white)  
-![Shaders](https://img.shields.io/badge/Shaders-1E90FF?style=for-the-badge&logo=opengl&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6C37?style=for-the-badge&logo=adobe&logoColor=white)  ![Geometry Nodes](https://img.shields.io/badge/Geometry%20Nodes-0096FF?style=for-the-badge&logo=blender&logoColor=white)  ![Shaders](https://img.shields.io/badge/Shaders-1E90FF?style=for-the-badge&logo=opengl&logoColor=white)
 
 ---
 
