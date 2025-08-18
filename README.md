@@ -21,6 +21,7 @@ Busco evoluir como **Technical Artist**, unindo programação e arte para soluç
 ✨ Repositórios e estudos chegando em breve...
 - reconhecimento facial com java
 - visualização e Customização de Objetos 3D
+- Sistema de gerenciamento de estoque de filamentos
 
 ---
 
